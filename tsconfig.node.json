@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.base.json",
+
+  "include": [
+    "script/**/*",
+    "tailwind.config.js",
+    ".prettierrc.js",
+    "postcss.config.js",
+    ".eslintrc.cjs"
+  ]
+}
